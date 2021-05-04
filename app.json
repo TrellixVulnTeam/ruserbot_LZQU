@@ -1,15 +1,15 @@
 {
-  "name": "Catuserbot",
+  "name": "ruserbot",
   "description": "A telethon userbot based on snapdragon code(xtratgbot) .Easy to use and friendly bot . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://telegra.ph/file/22e308a5826580dea7cb9.jpg",
   "keywords": [
     "telegram",
-    "userbot",
+    "ruserbot",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/rimuru07/ruserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
