@@ -59,10 +59,10 @@ def load_module(shortname):
         mod.edit_or_reply = edit_or_reply
         mod.logger = logging.getLogger(shortname)
         # support for uniborg
-        sys.modules["uniborg.util"] = userbot.utils
+        sys.modules["uniborg.util"] = ruserbot.utils
         mod.borg = bot
         # support for paperplaneextended
-        sys.modules["ruserbot.events"] = userbot.utils
+        sys.modules["ruserbot.events"] = ruserbot.utils
         spec.loader.exec_module(mod)
         # for imports
         sys.modules["ruserbot.plugins." + shortname] = mod
