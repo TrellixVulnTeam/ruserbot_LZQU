@@ -16,7 +16,7 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy Ruserbot
 
-[![Deploy](https://telegra.ph/file/1e066038dd17b142e3e12.jpg)](https://github.com/moci07/ruserbot)
+[![Deploy](https://telegra.ph/file/1e066038dd17b142e3e12.jpg)](https://heroku.com/deploy?template=https://github.com/moci07pda/ruserbot.git)
 ## Support
    <a href="https://t.me/rimgans"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    <a href="https://t.me/gabut_ngabuburit_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
