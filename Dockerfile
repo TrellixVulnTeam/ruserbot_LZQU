@@ -1,7 +1,7 @@
 FROM rimuru07/ruserbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/rimuru07/ruserbot.git /root/ruserbot
+RUN git clone https://github.com/moci07/ruserbot.git /root/ruserbot
 #working directory 
 WORKDIR /root/ruserbot
 
